@@ -1,9 +1,9 @@
 # Default extensions
-post_ext: md
+article_ext: md
 page_ext: md
 
 # Found in _templates/
-post_layout: post
+article_layout: article
 page_layout: page
 
 # Format titles with titlecase?

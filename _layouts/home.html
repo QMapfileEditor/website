@@ -30,17 +30,17 @@
 
 <div id="main" role="main"> 
   <div class="article-author-side">
-    {% include _author-bio.html %}
+    {% include _information.html %}
   </div>
   <div id="index">
-    <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-    {% for post in site.posts limit:5 %}    
+    <h3><a href="{{ site.url}}/blog/">Recent Articles</a></h3>
+    {% for article in site.articles limit:5 %}
     <article>
-      {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
+      {% if article.link %}
+        <h2 class="link-article"><a href="{{ site.url }}{{ article.url }}" title="{{ article.title }}">{{ article.title }}</a> <a href="{{ article.link }}" target="_blank" title="{{ article.title }}"><i class="fa fa-link"></i></h2>
       {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+        <h2><a href="{{ site.url }}{{ article.url }}" title="{{ article.title }}">{{ article.title }}</a></h2>
+        <p>{{ article.excerpt | strip_html | truncate: 160 }}</p>
       {% endif %}
     </article>
     {% endfor %}

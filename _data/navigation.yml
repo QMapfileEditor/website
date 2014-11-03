@@ -1,13 +1,16 @@
 # Site navigation links
 
+- title: Overview
+  url: /overview/
+
+- title: Documentation
+  url: /documentation/
+
+- title: Blog
+  url: /blog/
+
+- title: Developpers
+  url: /developpers/
+  
 - title: About
   url: /about/
-
-- title: Sample Posts
-  url: /posts/
-
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
