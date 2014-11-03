@@ -1,0 +1,33 @@
+# Site settings
+title: MapServer Cheetah
+locale: en_US
+email: yjacolin@free.fr
+description: > # this means to ignore newlines until "baseurl:"
+   MapServer Cheetah aims to give power to user to create 
+   amazing Mapfile for MapServer Project with a nice and 
+   easy graphic interface.
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://ms-cheetah.gloobe.org" # the base hostname & protocol for your site
+twitter_username: ms-cheetah
+github_username:  pmauduit/QMapfileEditor
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+include: ['.htaccess']
