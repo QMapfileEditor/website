@@ -2,13 +2,11 @@
 
 ## Development
 
-.. code-bloc:: bash
-   jekyll serve --watch
+``jekyll serve --watch``
 
 ## Build
 
-.. code-block:: bash
-   jekyll build
+``jekyll build``
 
 ## Themes
 
