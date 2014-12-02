@@ -39,9 +39,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: MapServer Sheeta
+  avatar: logo_cheetah.png
+  bio: "Mapfile quickly and easily!"
   email: 
   disqus-shortname: 
   twitter: QMapfileEditor

@@ -34,7 +34,7 @@
   </div>
   <div id="index">
     <h3><a href="{{ site.url}}/blog/">Recent Articles</a></h3>
-    {% for article in site.articles limit:5 %}
+    {% for article in site.posts limit:5 %}
     <article>
       {% if article.link %}
         <h2 class="link-article"><a href="{{ site.url }}{{ article.url }}" title="{{ article.title }}">{{ article.title }}</a> <a href="{{ article.link }}" target="_blank" title="{{ article.title }}"><i class="fa fa-link"></i></h2>

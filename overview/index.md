@@ -6,9 +6,9 @@ modified:
 excerpt:
 tags: []
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: 10012162166_6e611105c5_o_small.jpg
+  credit:  Nicolas Raymond
+  creditlink: https://flic.kr/p/gfJWZC
 ---
 
 ## Gallery
