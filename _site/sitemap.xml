@@ -3,7 +3,11 @@
   
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:4000/jekyll/update/2014/11/02/welcome-to-jekyll/</loc>
+=======
+    <loc>http://qmapfileeditor.github.io/website//jekyll/update/2014/11/02/welcome-to-jekyll/</loc>
+>>>>>>> master
     
     <lastmod>2014-11-02T20:50:55+01:00</lastmod>
     
@@ -11,7 +15,11 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:4000/2013/08/16/code-highlighting-post/</loc>
+=======
+    <loc>http://qmapfileeditor.github.io/website//2013/08/16/code-highlighting-post/</loc>
+>>>>>>> master
     
     <lastmod>2013-08-16T00:00:00+02:00</lastmod>
     
@@ -20,43 +28,73 @@
   
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:4000/about/</loc>
     <lastmod>2014-12-02T21:47:38+01:00</lastmod>
+=======
+    <loc>http://qmapfileeditor.github.io/website//about/</loc>
+    <lastmod>2014-12-02T22:14:14+01:00</lastmod>
+>>>>>>> master
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:4000/documentation/</loc>
     <lastmod>2014-12-02T21:47:38+01:00</lastmod>
+=======
+    <loc>http://qmapfileeditor.github.io/website//documentation/</loc>
+    <lastmod>2014-12-02T22:14:14+01:00</lastmod>
+>>>>>>> master
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:4000/developpers/</loc>
     <lastmod>2014-12-02T21:47:38+01:00</lastmod>
+=======
+    <loc>http://qmapfileeditor.github.io/website//developpers/</loc>
+    <lastmod>2014-12-02T22:14:14+01:00</lastmod>
+>>>>>>> master
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:4000/blog/</loc>
     <lastmod>2014-12-02T21:47:38+01:00</lastmod>
+=======
+    <loc>http://qmapfileeditor.github.io/website//blog/</loc>
+    <lastmod>2014-12-02T22:14:14+01:00</lastmod>
+>>>>>>> master
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:4000/overview/</loc>
     <lastmod>2014-12-02T21:47:38+01:00</lastmod>
+=======
+    <loc>http://qmapfileeditor.github.io/website//overview/</loc>
+    <lastmod>2014-12-02T22:14:14+01:00</lastmod>
+>>>>>>> master
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:4000/</loc>
     <lastmod>2014-12-02T21:47:38+01:00</lastmod>
+=======
+    <loc>http://qmapfileeditor.github.io/website//</loc>
+    <lastmod>2014-12-02T22:14:14+01:00</lastmod>
+>>>>>>> master
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
