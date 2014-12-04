@@ -9,4 +9,4 @@ written by Yves Jacolin and Pierre Mauduit.
 
 
 
-You can find the source code for MapServer Cheetah: [github.com/pmauduit/QMapfileEditor](https://github.com/pmauduit/QMapfileEditor)
+You can find the source code for MapServer Cheetah: [github.com/QMapfileEditor/QMapfileEditor](https://github.com/QMapfileEditor/QMapfileEditor)
