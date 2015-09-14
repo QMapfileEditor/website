@@ -12,5 +12,3 @@
 
 * Theme: minimal-mistakes-master
 * Source: http://jekyllthemes.org/
-
-
